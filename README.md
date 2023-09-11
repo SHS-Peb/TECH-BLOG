@@ -1,4 +1,4 @@
-Tech Blog
+## Tech Blog
 
 ## Description
 GIVEN a CMS-style blog site
